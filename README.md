@@ -30,6 +30,7 @@ Use Your Tokens, Perform operations. <br>
 By following the instructions on screen, first create a project. <br>
 After clicking on the create project, fill in the details that are required for the project. <br>
 After successfully creating a project, click on ‘add app’.
+Find the [tutorial](https://globus-sdk-python.readthedocs.io/en/stable/clients/transfer.html) here.
 
 ### Application registration
 #Image 4
